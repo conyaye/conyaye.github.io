@@ -601,7 +601,7 @@ hr {
 #header .logo {
   position: relative;
   float: left;
-  margin-right: 15px;
+  margin-right: 580px;
   -webkit-box-align: center;
   -ms-flex-align: center;
   align-items: center;
@@ -688,7 +688,7 @@ hr {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
-  -webkit-box-align: center;
+  -webkit-box-align: ;
   -ms-flex-align: center;
   align-items: center;
 }
@@ -2459,7 +2459,7 @@ h2.resp-accordion:first-child {
 .hero-wrap .hero-bg {
   z-index: 0;
   background-attachment: fixed;
-  background-position: center center;
+  background-position: left ;
   background-repeat: no-repeat;
   background-size: cover;
   -webkit-background-size: cover;
